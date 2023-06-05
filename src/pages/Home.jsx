@@ -25,7 +25,7 @@ const Home = () => {
     <>
     <div className="container" style={{ padding: '2rem' }}>
       <header>
-      <h1 style={{ color: 'red', fontSize: '2rem', marginBottom: '1rem' }}>Bienvenido a Gosal&apos;s Pizza</h1>
+      <h1 style={{ color: 'red', fontSize: '2rem', marginBottom: '1rem' }}>¡Bienvenido a Gosal&apos;s Pizza!</h1>
       </header>
       <div style={containerStyle}>
         <div style={textContainerStyle}>
